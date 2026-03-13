@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dd-sales-academy/static/css/main.d6f9bcbb.css",
+    "main.js": "/dd-sales-academy/static/js/main.cd8aa283.js",
+    "index.html": "/dd-sales-academy/index.html",
+    "main.d6f9bcbb.css.map": "/dd-sales-academy/static/css/main.d6f9bcbb.css.map",
+    "main.cd8aa283.js.map": "/dd-sales-academy/static/js/main.cd8aa283.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6f9bcbb.css",
+    "static/js/main.cd8aa283.js"
+  ]
+}
